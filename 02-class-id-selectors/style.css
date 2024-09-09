@@ -1,0 +1,21 @@
+/* Classes */
+.odd {
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  background-color: rgb(205, 132, 159);
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+/* IDs */
+#num2 {
+  color: rgb(50, 120, 190);
+  font-size: 36px;
+}
+
+#num4 {
+  background-color: rgb(53, 182, 113);
+  font-weight: bold;
+  font-size: 24px;
+}
