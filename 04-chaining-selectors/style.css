@@ -1,0 +1,13 @@
+/* classes */
+
+.avatar.proportioned {
+  width: 300px;
+  height: auto;
+  border-radius: 5%;
+}
+
+.avatar.distorted {
+  width: 200px;
+  height: 400px;
+  border-radius: 10%;
+}
